@@ -1,0 +1,25 @@
+{
+    "IRC": {
+        "Address": "irc.gamergalaxy.net",
+        "Port": 6667,
+        "Password": "",
+        "UseSSL": false,
+        "Nickname": "rustBNC",
+        "Identity": "rust",
+        "RealName": "rustBNC by Weidi Zhang",
+        "NickPassword": "",
+        "Channels": [
+            "#gamergalaxy"
+        ]
+    },
+    "BNC": {
+        "Port": 4444,
+        "Users": [
+            {
+                "Username": "default",
+                "Password": "a2ee4b6b9e3144c7db61b1ffc748bf2c728b65819e3f69a021f515acb044995b90f03d60974b6b4a",
+                "HashMethod": "ripemd320"
+            }
+        ]
+    }
+}
